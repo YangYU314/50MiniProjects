@@ -1,0 +1,6 @@
+CSS:
+
+    Flex    
+        .container{
+            display:flex;
+        }
